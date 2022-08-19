@@ -1,0 +1,3 @@
+---
+pageClass: web-html-page
+---
